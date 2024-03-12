@@ -18,7 +18,7 @@
 ## 📁 Clonar repositório
   Clone este repositório, link abaixo:
 
-    git  clone  https://github.com/SamColt36/alura-challenge-encoder-decoder
+    git  clone  https://github.com/mssoares92/encriptador.git
 
 ## 🛠️ Abrir e rodar
 
