@@ -1,4 +1,7 @@
 # Encriptador
+
+## Descrição
+  Projeto desenvolvido como *Challenge* da formação *Iniciante em Programação* do Projeto One (Oracle|Alura)
 ## 🚀 Técnicas e tecnologias utilizadas
 
   
