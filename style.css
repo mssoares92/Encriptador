@@ -148,8 +148,23 @@ h1{
 @media (max-width: 1200px) {
     
     .layout_apresentacao{
-
+    margin: 0px;
+    padding: 0px;
+    width: 100%;   
     flex-direction: column;
+    }
+    .botoes{
+        display: flex;
+        flex-direction: column;
+        border-top: 18px;
+        gap: 24px;
+    }
+      
+    .botoes_direita{
+        display: flex;
+        border-top: 18px;
+        flex-direction: column;
+        gap: 50px;
     }
 
     .main_content_left{
