@@ -22,5 +22,4 @@
 
 ## 🛠️ Abrir e rodar
 
-[Encriptador.
-](https://encriptador-livid.vercel.app/)https://encriptador-livid.vercel.app/
+
