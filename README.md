@@ -1,8 +1,10 @@
 # Encriptador
 
 
-## Descrição *(Em Desenvolvimento)*
+## Descrição 
   Projeto desenvolvido como **Challenge** da formação **Iniciante em Programação** capacitação ONE (Oracle|Alura)
+
+  Plataforma não é responsivo, pois não havia necessidade mas a intenção é manter em evolução e implantar a funcionalidade
 
 
 
@@ -22,4 +24,4 @@
 
 ## 🛠️ Abrir e rodar
 
-
+https://encriptador-livid.vercel.app/
